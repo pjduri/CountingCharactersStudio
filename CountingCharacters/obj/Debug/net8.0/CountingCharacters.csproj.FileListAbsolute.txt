@@ -1,0 +1,14 @@
+C:\Users\pjdur\Desktop\FTWDMarch2024\Unit2\CsharpProjects\CountingCharactersStudio\CountingCharacters\bin\Debug\net8.0\CountingCharacters.exe
+C:\Users\pjdur\Desktop\FTWDMarch2024\Unit2\CsharpProjects\CountingCharactersStudio\CountingCharacters\bin\Debug\net8.0\CountingCharacters.deps.json
+C:\Users\pjdur\Desktop\FTWDMarch2024\Unit2\CsharpProjects\CountingCharactersStudio\CountingCharacters\bin\Debug\net8.0\CountingCharacters.runtimeconfig.json
+C:\Users\pjdur\Desktop\FTWDMarch2024\Unit2\CsharpProjects\CountingCharactersStudio\CountingCharacters\bin\Debug\net8.0\CountingCharacters.dll
+C:\Users\pjdur\Desktop\FTWDMarch2024\Unit2\CsharpProjects\CountingCharactersStudio\CountingCharacters\bin\Debug\net8.0\CountingCharacters.pdb
+C:\Users\pjdur\Desktop\FTWDMarch2024\Unit2\CsharpProjects\CountingCharactersStudio\CountingCharacters\obj\Debug\net8.0\CountingCharacters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pjdur\Desktop\FTWDMarch2024\Unit2\CsharpProjects\CountingCharactersStudio\CountingCharacters\obj\Debug\net8.0\CountingCharacters.AssemblyInfoInputs.cache
+C:\Users\pjdur\Desktop\FTWDMarch2024\Unit2\CsharpProjects\CountingCharactersStudio\CountingCharacters\obj\Debug\net8.0\CountingCharacters.AssemblyInfo.cs
+C:\Users\pjdur\Desktop\FTWDMarch2024\Unit2\CsharpProjects\CountingCharactersStudio\CountingCharacters\obj\Debug\net8.0\CountingCharacters.csproj.CoreCompileInputs.cache
+C:\Users\pjdur\Desktop\FTWDMarch2024\Unit2\CsharpProjects\CountingCharactersStudio\CountingCharacters\obj\Debug\net8.0\CountingCharacters.dll
+C:\Users\pjdur\Desktop\FTWDMarch2024\Unit2\CsharpProjects\CountingCharactersStudio\CountingCharacters\obj\Debug\net8.0\refint\CountingCharacters.dll
+C:\Users\pjdur\Desktop\FTWDMarch2024\Unit2\CsharpProjects\CountingCharactersStudio\CountingCharacters\obj\Debug\net8.0\CountingCharacters.pdb
+C:\Users\pjdur\Desktop\FTWDMarch2024\Unit2\CsharpProjects\CountingCharactersStudio\CountingCharacters\obj\Debug\net8.0\CountingCharacters.genruntimeconfig.cache
+C:\Users\pjdur\Desktop\FTWDMarch2024\Unit2\CsharpProjects\CountingCharactersStudio\CountingCharacters\obj\Debug\net8.0\ref\CountingCharacters.dll
